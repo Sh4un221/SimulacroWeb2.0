@@ -6,3 +6,16 @@
     box-sizing: border-box;
     font-family:"Poppins", sans-serif;
 }
+.card1 .image {
+    border: 1px solid black;
+    width:154px ;
+    height: 211px;
+    display: flex;
+    justify-content: flex-end;
+    background-image: url(../storage/img/image\ 43-1.png);
+}
+.card1 .image img{
+    width: 20px;
+    height: 20px;
+    background: black;
+}
